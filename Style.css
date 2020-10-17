@@ -28,6 +28,8 @@ h2{
 }
 .images{
 	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
 }
 .picture{
 	width: 100%;
